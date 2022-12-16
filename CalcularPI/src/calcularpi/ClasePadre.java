@@ -1,3 +1,5 @@
+//hice clic derecho, refactor, extract to superclass de nombre "ClasePadre" y seleccioné el piFunction
+
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
